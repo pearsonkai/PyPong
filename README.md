@@ -2,6 +2,9 @@
 
 A simple 2D Pong game built with Python and `pygame-ce`.
 
+## Disclaimer
+All code in this repository was made with generative AI for a lab in Dalhousie University's Software Development course CSCI2134.
+
 ## Features
 - One-player mode vs CPU
 - Local two-player mode on one keyboard
